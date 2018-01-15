@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
  <head>
 
   <meta charset="UTF-8">
@@ -12,8 +12,8 @@
 <link href='https://fonts.googleapis.com/css?family=Droid+Serif:100,200,400,700' rel='stylesheet' type='text/css'>
 
 
-<link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
-<link rel='stylesheet prefetch' href='http://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css'>
+<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css'>
 <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css'>
 
 <link rel="stylesheet" href="css/style.css">
@@ -68,19 +68,19 @@
           <td class="icon_wrapper">
             <img class="portfolio_icon" src="image/about_skills_1.png">
           </td>
-          <td>Android, UI/UX ±âÈ¹, Sqlite, jsp, JS</td>
+          <td>Android, UI/UX ï¿½ï¿½È¹, Sqlite, jsp, JS</td>
         </tr>
         <tr class="portfolio_table_row">
           <td class="icon_wrapper">
             <img class="portfolio_icon" src="image/about_education.png">
           </td>
-          <td>¼øÃµÇâ´ëÇÐ±³ ÄÄÇ»ÅÍ°øÇÐ°ú °øÇÐ»ç</td>
+          <td>ï¿½ï¿½Ãµï¿½ï¿½ï¿½ï¿½Ð±ï¿½ ï¿½ï¿½Ç»ï¿½Í°ï¿½ï¿½Ð°ï¿½ ï¿½ï¿½ï¿½Ð»ï¿½</td>
         </tr>
         <tr class="portfolio_table_row">
           <td class="icon_wrapper">
             <img class="portfolio_icon" src="image/about_license.png">
           </td>
-          <td>Á¤º¸Ã³¸®±â»ç Ãëµæ</td>
+          <td>ï¿½ï¿½ï¿½ï¿½Ã³ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½</td>
         </tr>
         <tr class="portfolio_table_row">
           <td class="icon_wrapper">
@@ -98,7 +98,7 @@
           <td class="icon_wrapper">
             <img class="portfolio_icon" src="image/about_site.png">
           </td>
-          <td>https://www.À½</td>
+          <td>https://www.ï¿½ï¿½</td>
         </tr>
         <tr class="portfolio_table_row">
           <td class="icon_wrapper">
@@ -129,7 +129,7 @@
           </div>
           <div class="panel-footer">
             <h3>Starwalk</h3>
-            <p>ÈÞ ÀÌ¹ÌÁö ¾ðÁ¦±¸ÇØ</p>
+            <p>ï¿½ï¿½ ï¿½Ì¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
           </div>
         </div>
       </div>
@@ -143,7 +143,7 @@
           </div>
           <div class="panel-footer">
             <h3>Dogtra-Pathfinder</h3>
-            <p>ÈÞ ÀÌ¹ÌÁö ¾ðÁ¦±¸ÇØ</p>
+            <p>ï¿½ï¿½ ï¿½Ì¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
           </div>
         </div>
       </div>
@@ -157,7 +157,7 @@
           </div>
           <div class="panel-footer">
             <h3>AutoOn BLE</h3>
-            <p>ÈÞ ÀÌ¹ÌÁö ¾ðÁ¦±¸ÇØ</p>
+            <p>ï¿½ï¿½ ï¿½Ì¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
           </div>
         </div>
       </div>
@@ -181,8 +181,8 @@
               </div>
               <div class="timeline-marker"></div>
               <div class="timeline-content">
-                <h3 class="timeline-title">ÆäÆ®¶ó¿¡¼­ ±Ù¹«</h3>
-                <p>±âÁ¸ ÇÁ·ÎÁ§Æ® À¯Áö º¸¼ö ¹× Àç°³¹ß, ½ÅÁ¦Ç° °³¹ß ¾÷¹«, »ç³»¿ë À¥ ÆäÀÌÁö Á¦ÀÛ</p>
+                <h3 class="timeline-title">ï¿½ï¿½Æ®ï¿½ó¿¡¼ï¿½ ï¿½Ù¹ï¿½</h3>
+                <p>ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ç°³ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½Ç° ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ç³»ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½</p>
               </div>
               </li>
 
@@ -200,7 +200,7 @@
               </div>
               <div class="timeline-marker"></div>
               <div class="timeline-content">
-                <h3 class="timeline-title">Á¤º¸Ã³¸®±â»ç ÀÚ°Ý Ãëµæ</h3>
+                <h3 class="timeline-title">ï¿½ï¿½ï¿½ï¿½Ã³ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ú°ï¿½ ï¿½ï¿½ï¿½</h3>
               </div>
               </li>
 
@@ -210,8 +210,8 @@
               </div>
               <div class="timeline-marker"></div>
               <div class="timeline-content">
-                <h3 class="timeline-title">¼øÃµÇâ´ëÇÐ±³ ÄÄÇ»ÅÍ°øÇÐ°ú Á¹¾÷</h3>
-                <p>ÇÐ»çÇÐÀ§³í¹® µî·Ï : ¶óÁîº£¸® ÆÄÀÌ¸¦ ÀÌ¿ëÇÑ ¾Èµå·ÎÀÌµå ±â¹Ý ¼Ò¼È ¹Ìµð¾î Ãâ·Â ½Ã½ºÅÛ</p>
+                <h3 class="timeline-title">ï¿½ï¿½Ãµï¿½ï¿½ï¿½ï¿½Ð±ï¿½ ï¿½ï¿½Ç»ï¿½Í°ï¿½ï¿½Ð°ï¿½ ï¿½ï¿½ï¿½ï¿½</h3>
+                <p>ï¿½Ð»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½îº£ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¸ï¿½ ï¿½Ì¿ï¿½ï¿½ï¿½ ï¿½Èµï¿½ï¿½ï¿½Ìµï¿½ ï¿½ï¿½ï¿½ ï¿½Ò¼ï¿½ ï¿½Ìµï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ã½ï¿½ï¿½ï¿½</p>
               </div>
               </li>
               <li class="timeline-item period">
@@ -247,7 +247,7 @@
   </div>
 
 </div>
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='https://raw.githubusercontent.com/mattboldt/typed.js/master/dist/typed.min.js'></script>
 
 

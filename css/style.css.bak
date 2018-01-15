@@ -488,7 +488,7 @@ width: 30%;
 }
 .timeline-marker:before {
 
-  background: #00f6ed;
+  background: #00b8a5;
   border: 3px solid transparent;
   border-radius: 100%;
   content: "";
@@ -516,7 +516,7 @@ width: 30%;
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #00f6ed;
+  border: 3px solid #00b8a5;
 }
 
 /*----- TIMELINE CONTENT -----*/
